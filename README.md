@@ -1,6 +1,6 @@
 # papers-list
 curated list of scientific publications
 
-[](https://doi.org/10.1016/j.jbusvent.2020.106007)
-[](https://doi.org/10.1002/jmv.26496)
-[](https://doi.org/10.1177/0004867420962851)
+[Age and entrepreneurial career success: A review and a meta-analysis](https://doi.org/10.1016/j.jbusvent.2020.106007)
+[Current meta-analysis does not support the possibility of COVID-19 reinfections](https://doi.org/10.1002/jmv.26496)
+[Global prevalence of gaming disorder: A systematic review and meta-analysis](https://doi.org/10.1177/0004867420962851)
