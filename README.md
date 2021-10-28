@@ -1,4 +1,4 @@
-# publications
+# papers-list
 curated list of scientific publications
 
 [](https://doi.org/10.1016/j.jbusvent.2020.106007)
